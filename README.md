@@ -1,6 +1,6 @@
 # Algoritmos e Pensamento Computacional - UDF
 
-Exercícios e atividades em **C** da disciplina Algoritmos e Pensamento Computacional, Ciência da Computação — UDF (2026.2).
+Exercícios e atividades em **C** da disciplina Algoritmos e Pensamento Computacional, Ciência da Computação - UDF (2026.2).
 
 Cada atividade fica em uma pasta própria, com README explicando o que cada programa faz e as decisões que tomei.
 
